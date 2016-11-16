@@ -8,7 +8,4 @@
 
 # Settings Repository
 You can synchronize all your WebStorm settings installed on different computers.
-
-Set URL and override local settings first.
-This is my repository 
-
+First of all, set Settings Repository and override local settings.
